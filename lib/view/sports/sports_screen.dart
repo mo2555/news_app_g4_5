@@ -72,3 +72,34 @@ class SportsScreen extends StatelessWidget {
     );
   }
 }
+
+/*
+
+api ==>
+
+search = 1
+
+x[index]['title'].contains(search)
+
+x = [
+
+{
+'title':1,
+more data....
+},
+{
+'title':12,
+more data....
+}
+{
+'title':3,
+more data....
+}
+
+]
+
+
+Server ===> loading ==== 1 === ListData
+
+
+ */

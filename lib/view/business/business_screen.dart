@@ -41,7 +41,7 @@ class BusinessScreen extends StatelessWidget {
                           fontSize: 15,
                         ),
                         maxLines:4,
-                        overflow: TextOverflow.visible,
+                        overflow: TextOverflow.ellipsis,
                       ),
                     ),
 
